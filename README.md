@@ -13,6 +13,7 @@ I am looking forward to be a software developer. Only if interested, I will cont
 
 ## Links
 - [My LinkedIn Profile](https://www.linkedin.com/in/vineetha-batchu/)
+- [My GitHub Profile](https://github.com/vineetha-batchu)
 
 ## Me
 ![My Image](https://github.com/vineetha-batchu/big-data-dev/blob/main/vinee.jfif)
